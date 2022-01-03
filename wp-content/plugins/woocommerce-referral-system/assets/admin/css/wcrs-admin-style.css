@@ -1,0 +1,47 @@
+.wcrs-referral-logs{
+	padding: 20px;
+}
+
+.wcrs-referral-logs table {
+	border-collapse: collapse;
+	width:100%;
+	padding: 10px;
+	font-size: 14px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.wcrs-referral-logs th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #4CAF50;
+	color: white;
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+.wcrs-referral-logs td {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+.wcrs-referral-logs tr:hover {background-color: #ddd;}
+
+.wcrs-referral-logs #heading {
+	padding-bottom: 30px;
+	font-size: 40px;
+	letter-spacing: 1px;
+	text-shadow: 2px 2px 2px #CCCCCC;
+}
+
+.wcrs-referral-logs #referrer th, #referrer td{
+	text-align: center;
+}
+
+.wcrs-dropdown{
+	height: 30px;
+	overflow: auto;
+}
+.disable-wcpr-function{
+color: #888 !important;
+}

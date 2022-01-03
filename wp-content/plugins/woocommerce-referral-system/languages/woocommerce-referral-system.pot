@@ -1,0 +1,777 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Codup
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-22 17:17+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: contact_us/class-wcrs-contact-us.php:47
+msgid "Having trouble in configuration? "
+msgstr ""
+
+#: contact_us/class-wcrs-contact-us.php:47
+msgid "Get Support"
+msgstr ""
+
+#: contact_us/class-wcrs-contact-us.php:73
+msgid "Having trouble in configuration?"
+msgstr ""
+
+#: contact_us/class-wcrs-contact-us.php:73
+msgid "Contact us"
+msgstr ""
+
+#: contact_us/class-wcrs-contact-us.php:73
+msgid "for support."
+msgstr ""
+
+#: contact_us/class-wcrs-contact-us.php:76
+msgid "Or email your query at"
+msgstr ""
+
+#: contact_us/class-wcrs-contact-us.php:76
+msgid "woosupport@codup.io"
+msgstr ""
+
+#: includes/class-referral-discount-email.php:28
+msgid "Coupon Discount"
+msgstr ""
+
+#: includes/class-referral-discount-email.php:29
+msgid ""
+"Email template when discount coupon is added to in the pocket of customer."
+msgstr ""
+
+#: includes/class-referral-discount-email.php:37
+#: includes/class-referral-system-core.php:578
+msgid "You've got Discount Coupon!"
+msgstr ""
+
+#: includes/class-referral-discount-email.php:41
+msgid "Congratulations! You have been awarded"
+msgstr ""
+
+#: includes/class-referral-discount-email.php:61
+msgid "Email subject"
+msgstr ""
+
+#: includes/class-referral-discount-email.php:64
+#, php-format
+msgid "Subject of the email defaults to <code>%s</code>"
+msgstr ""
+
+#: includes/class-referral-discount-email.php:69
+msgid "Email heading"
+msgstr ""
+
+#: includes/class-referral-discount-email.php:72
+#, php-format
+msgid "Heading of the email defaults to <code>%s</code>"
+msgstr ""
+
+#: includes/class-referral-discount-email.php:77
+msgid "Email type"
+msgstr ""
+
+#: includes/class-referral-discount-email.php:79
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: includes/class-referral-discount-email.php:83
+msgid "Plain text"
+msgstr ""
+
+#: includes/class-referral-discount-email.php:84
+msgid "HTML"
+msgstr ""
+
+#: includes/class-referral-system-core.php:184
+msgid "referrer signup"
+msgstr ""
+
+#: includes/class-referral-system-core.php:196
+msgid "referee signup"
+msgstr ""
+
+#: includes/class-referral-system-core.php:208
+msgid "order"
+msgstr ""
+
+#: includes/class-referral-system-core.php:364
+msgid "WooCommerce Referral System Integration - Points Settings"
+msgstr ""
+
+#: includes/class-referral-system-core.php:369
+msgid "Select Integration type"
+msgstr ""
+
+#: includes/class-referral-system-core.php:370
+msgid ""
+"Select the integration option whether you want to use Points and Rewards "
+"Settings for Purchase of Referral System settings for Purchase or both"
+msgstr ""
+
+#: includes/class-referral-system-core.php:374
+msgid "Use Referral System setting only"
+msgstr ""
+
+#: includes/class-referral-system-core.php:375
+msgid "Use Referral System and Points & Rewards settings"
+msgstr ""
+
+#: includes/class-referral-system-core.php:379
+msgid "Enable Signup Points"
+msgstr ""
+
+#: includes/class-referral-system-core.php:380
+msgid "Offers reward points on new user signup."
+msgstr ""
+
+#: includes/class-referral-system-core.php:386
+msgid "Signup points for Referrer"
+msgstr ""
+
+#: includes/class-referral-system-core.php:387
+msgid ""
+"Set the number of points awarded to referrer on referring. Leaving blank "
+"will not reward any point on this action."
+msgstr ""
+
+#: includes/class-referral-system-core.php:393
+msgid "Signup points for Referee"
+msgstr ""
+
+#: includes/class-referral-system-core.php:394
+msgid ""
+"Set the number of points awarded to referee on being referred. Leaving blank "
+"will not reward any point on this action."
+msgstr ""
+
+#: includes/class-referral-system-core.php:400
+msgid "Enable Purchase Points"
+msgstr ""
+
+#: includes/class-referral-system-core.php:401
+msgid "Offers reward points when referee makes a purchase."
+msgstr ""
+
+#: includes/class-referral-system-core.php:407
+#: includes/class-referral-system-settings.php:361
+msgid "Reward Type"
+msgstr ""
+
+#: includes/class-referral-system-core.php:410
+#: includes/class-referral-system-settings.php:364
+msgid "Fixed"
+msgstr ""
+
+#: includes/class-referral-system-core.php:411
+#: includes/class-referral-system-settings.php:296
+#: includes/class-referral-system-settings.php:365
+#: includes/class-referral-system-settings.php:375
+msgid "Percentage"
+msgstr ""
+
+#: includes/class-referral-system-core.php:413
+#, php-format
+msgid "Give rewards based on order total amount in % or Fixed Amount."
+msgstr ""
+
+#: includes/class-referral-system-core.php:417
+msgid "Order points for Referrer"
+msgstr ""
+
+#: includes/class-referral-system-core.php:418
+msgid ""
+"Set the number of points awarded to referrer on  order of his referee. "
+"Leaving blank will not reward any point on this action."
+msgstr ""
+
+#: includes/class-referral-system-core.php:424
+msgid "Order points for Referee"
+msgstr ""
+
+#: includes/class-referral-system-core.php:425
+msgid ""
+"Set the number of points awarded to referee on his order. Leaving blank will "
+"not reward any point on this action."
+msgstr ""
+
+#: includes/class-referral-system-edit-user.php:48
+msgid "Disabled Signup Based Reward"
+msgstr ""
+
+#: includes/class-referral-system-edit-user.php:53
+#: includes/class-referral-system-edit-user.php:63
+msgid "checked"
+msgstr ""
+
+#: includes/class-referral-system-edit-user.php:58
+msgid "Disabled Order Based Reward"
+msgstr ""
+
+#: includes/class-referral-system-my-account-menu.php:91
+#: templates/frontend/referral-link-content.php:15
+msgid "Referral Link"
+msgstr ""
+
+#: includes/class-referral-system-my-account-menu.php:117
+msgid "My Coupons"
+msgstr ""
+
+#: includes/class-referral-system-order.php:177
+msgid "Referrer gets coupon on purchase of its referee."
+msgstr ""
+
+#: includes/class-referral-system-order.php:231
+msgid "Referee gets coupon on purchase"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:77
+msgid "Referral System"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:88
+msgid "General"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:89
+msgid "Signup Based Rewards"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:90
+msgid "Order Based Rewards"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:121
+msgid ""
+"Save the changes on this page first and then integration settings can be "
+"configured "
+msgstr ""
+
+#: includes/class-referral-system-settings.php:126
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:131
+msgid "Select the type of functionality"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:134
+msgid "Standalone WooCommerce Referral System Functionality"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:135
+msgid "Integrate with “WooCommerce Points and Rewards” System"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:137
+msgid ""
+"Choose whether you want the standalone Referral System Functionality or "
+"integrate it with WooCommerce Points and Rewards plugin."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:141
+msgid "Set Minimum Purchase Limit"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:143
+msgid ""
+"Select this action if you want to set minimum order amount to get rewards."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:150
+msgid "Set Amount."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:154
+#: includes/class-referral-system-settings.php:394
+msgid "Valid Number of Orders"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:157
+msgid "This means on how much orders award will provided."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:161
+msgid "Eligible Order Status"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:164
+msgid "Which Statuses are eligible for reward."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:172
+msgid "Integration with WooCommerce Points & Rewards"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:186
+msgid ""
+"Remember once you have changed your slug type and slug name it cannot be "
+"reset again"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:190
+msgid "Select your slug type"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:193
+msgid "Select"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:197
+msgid ""
+"Choose whether you want the referral link to be generated with User ID or "
+"User Name."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:201
+msgid "Slug Name"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:203
+msgid "Create your own slug name for referral link."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:207
+msgid "Cookie Expiry"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:209
+msgid "Cookie Expiry in days from the day of visit."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:214
+msgid "Redirect to page"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:218
+msgid "Redirect to user defined page"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:222
+msgid "Redirect to product"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:226
+msgid "Redirect to user defined product page"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:230
+msgid "Customizable Text for Email and Social Sharing"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:232
+msgid "Default : Come and Join To Earn Rewards Now!"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:234
+msgid "This text will be sent with your Referral URL."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:238
+msgid "Customizable Text for Subject of Emails"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:240
+msgid "Default : You've got Discount Coupon!"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:242
+msgid "This text set your subject for coupons emails."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:246
+msgid "Customizable Text for Email Body for referrer on signup of referee."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:248
+msgid ""
+"Default : Thank you for referring a new customer. Here's a little treat from "
+"us. "
+msgstr ""
+
+#: includes/class-referral-system-settings.php:253
+msgid "Customizable Text for Email Body for referee on signup."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:255
+msgid "Default : Thank you for registering. Here's a little treat from us. "
+msgstr ""
+
+#: includes/class-referral-system-settings.php:260
+msgid "Customizable Text for Email Body for referrer on Order Based Reward."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:262
+msgid ""
+"Default : Thank you for referring a new customer. He has purchased from our "
+"store. "
+msgstr ""
+
+#: includes/class-referral-system-settings.php:267
+msgid "Customizable Text for Email Body for Referee on Order Based Reward."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:269
+msgid ""
+"Default : Thank you for purchasing from our store. Here's a little treat "
+"from us. "
+msgstr ""
+
+#: includes/class-referral-system-settings.php:281
+msgid "Signup Settings"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:286
+msgid "Select if you want Signup action for discount"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:288
+msgid ""
+"Select this action if your awardees get the coupon on this particular action."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:292
+#: includes/class-referral-system-settings.php:371
+msgid "Coupon Type"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:295
+#: includes/class-referral-system-settings.php:374
+msgid "Fixed Price"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:298
+#: includes/class-referral-system-settings.php:377
+msgid "Select one of the coupon type for your referrer/referee."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:302
+msgid "Enable Coupon for Referrer"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:304
+msgid "Select if you want the referrer to be rewarded on Signup."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:308
+#: includes/class-referral-system-settings.php:328
+msgid "Coupon Amount"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:311
+msgid ""
+"Type in the coupon amount you want your referrers to get when referee signs "
+"up successfully"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:315
+#: includes/class-referral-system-settings.php:335
+#: includes/class-referral-system-settings.php:414
+#: includes/class-referral-system-settings.php:434
+msgid "Coupon Expiry"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:318
+#: includes/class-referral-system-settings.php:338
+msgid ""
+"Write the coupon expiry days from the day the referee signs up in number of "
+"days only."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:322
+msgid "Enable Coupon for Referee"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:324
+msgid "Select if you want the referee to be rewarded on signup."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:331
+msgid ""
+"Type in the coupon amount you want your referees to get when referee signs "
+"up successfully"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:350
+msgid "Order Settings"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:355
+msgid "Enable Order Based Coupons"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:357
+msgid ""
+"Selecting this rewards the referrer and referee more discount coupons each "
+"time the referee places an order with your store"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:367
+#, php-format
+msgid ""
+"Give rewards based on order Sub-total(exclude Tax) amount in % or Fixed "
+"Amount."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:381
+msgid "Minimum Purchase Amount"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:383
+msgid ""
+"Selecting this lets you set a minimum purchase amount on which the referrer "
+"and referee will get the coupon."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:390
+msgid "Enter the minimum purchase amount."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:397
+msgid "This is the number of subsequent orders on which the reward is offered."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:401
+msgid "Enable Order Based Coupon for Referrers"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:403
+msgid "Rewards the referrer when the referee makes a purchase from your store."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:407
+#: includes/class-referral-system-settings.php:427
+msgid "Coupon"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:410
+msgid ""
+"Type in the coupon amount you want your referrers to get when referees "
+"purchase their first item."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:417
+#: includes/class-referral-system-settings.php:437
+msgid ""
+"Write the coupon expiry days from the day the referee purchase first item in "
+"number of days only."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:421
+msgid "Select this option if referee gets the coupon"
+msgstr ""
+
+#: includes/class-referral-system-settings.php:423
+msgid "Select this action if your awardees are referees."
+msgstr ""
+
+#: includes/class-referral-system-settings.php:430
+msgid ""
+"Type in the coupon amount you want your referees to get when referees "
+"purchase their first item."
+msgstr ""
+
+#: includes/class-referral-system-signup.php:222
+msgid "Referrer gets coupon on Sign up of its referee."
+msgstr ""
+
+#: includes/class-referral-system-signup.php:262
+msgid "Referee gets coupon on Sign Up."
+msgstr ""
+
+#: includes/referral-system-dependencies.php:50
+msgid ""
+"Thank you for using WooCommerce Referral System. Make sure to configure "
+"plugin settings before using it."
+msgstr ""
+
+#: includes/referral-system-dependencies.php:52
+#: includes/referral-system-dependencies.php:126
+msgid "Referral System Settings"
+msgstr ""
+
+#: includes/referral-system-dependencies.php:81
+#, php-format
+msgid ""
+"The %3$sWooCommerce plugin%4$s must be active for %1$sWooCommerce Referral "
+"System %2$s to work. Please %5$sinstall & activate WooCommerce &raquo;%6$s"
+msgstr ""
+
+#: includes/referral-system-dependencies.php:98
+msgid "Settings"
+msgstr ""
+
+#: includes/referral-system-dependencies.php:121
+msgid ""
+"WooCommerce Discount Coupon module has been enabled automatically since the "
+"current functionality is set to WooCommerce Referral System instead of "
+"Points and Rewards."
+msgstr ""
+
+#: includes/api/admin/class-wrs-settings-api.php:61
+msgid ""
+"Missing required values ex: setting_name as key and setting_value as setting "
+"value ."
+msgstr ""
+
+#: includes/api/admin/class-wrs-settings-api.php:62
+#: includes/api/admin/class-wrs-settings-api.php:167
+#: includes/api/front/class-wrs-coupons-api.php:52
+#: includes/api/front/class-wrs-coupons-api.php:60
+#: includes/api/front/class-wrs-referral-link-api.php:52
+#: includes/api/front/class-wrs-referral-link-api.php:60
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/api/admin/class-wrs-settings-api.php:166
+msgid "Missing required parameter setting_name."
+msgstr ""
+
+#: includes/api/front/class-wrs-coupons-api.php:51
+#: includes/api/front/class-wrs-referral-link-api.php:51
+msgid "Missing required parameter email."
+msgstr ""
+
+#: includes/api/front/class-wrs-coupons-api.php:59
+#: includes/api/front/class-wrs-referral-link-api.php:59
+msgid "The user with provided email not exist."
+msgstr ""
+
+#: templates/admin/referral-logs.php:15
+msgid "REFERRAL SYSTEM LOGS"
+msgstr ""
+
+#: templates/admin/referral-logs.php:17
+msgid "Referrer Clicks"
+msgstr ""
+
+#: templates/admin/referral-logs.php:23
+msgid "Referrer"
+msgstr ""
+
+#: templates/admin/referral-logs.php:24
+msgid "Counts"
+msgstr ""
+
+#: templates/admin/referral-logs.php:39
+msgid "No referrer found"
+msgstr ""
+
+#: templates/admin/referral-logs.php:42
+msgid "Referral Logs"
+msgstr ""
+
+#: templates/admin/referral-logs.php:49
+msgid "Visit ID"
+msgstr ""
+
+#: templates/admin/referral-logs.php:50
+msgid "Time"
+msgstr ""
+
+#: templates/admin/referral-logs.php:51
+msgid "Username"
+msgstr ""
+
+#: templates/admin/referral-logs.php:52
+msgid "IP"
+msgstr ""
+
+#: templates/admin/referral-logs.php:53
+msgid "Country"
+msgstr ""
+
+#: templates/admin/referral-logs.php:54
+msgid "Referral URL"
+msgstr ""
+
+#: templates/admin/referral-logs.php:55
+msgid "Landing URL"
+msgstr ""
+
+#: templates/admin/referral-logs.php:56
+msgid "Referrer Name"
+msgstr ""
+
+#: templates/admin/referral-logs.php:77
+msgid "No logs found"
+msgstr ""
+
+#: templates/emails/coupon-discount.php:28
+#, php-format
+msgid "Hi <strong>%s</strong>,"
+msgstr ""
+
+#: templates/emails/coupon-discount.php:98
+#, php-format
+msgid "<a href=\"%s\">Shop now! </a>"
+msgstr ""
+
+#: templates/emails/plain/coupon-discount.php:22
+#, php-format
+msgid "Hi %s,"
+msgstr ""
+
+#: templates/emails/plain/coupon-discount.php:63
+#, php-format
+msgid "Shop now at %s"
+msgstr ""
+
+#: templates/frontend/my-coupons-content.php:34
+msgid "Coupon Code"
+msgstr ""
+
+#: templates/frontend/my-coupons-content.php:35
+msgid "Expiry date"
+msgstr ""
+
+#: templates/frontend/my-coupons-content.php:36
+msgid "Coupon type"
+msgstr ""
+
+#: templates/frontend/my-coupons-content.php:37
+msgid "Coupon Amount / %"
+msgstr ""
+
+#: templates/frontend/my-coupons-content.php:38
+msgid "Awarded For"
+msgstr ""
+
+#: templates/frontend/referral-link-content.php:19
+msgid "Use this referral link to invite users on this page"
+msgstr ""
+
+#: templates/frontend/referral-link-content.php:23
+msgid "Your Referral Link:"
+msgstr ""
+
+#: templates/frontend/referral-link-content.php:27
+msgid "Copy!"
+msgstr ""
+
+#: templates/frontend/referral-link-content.php:34
+#, php-format
+msgid "Configure <a href=\"%1$s\">Referral System Settings</a>. %2$s."
+msgstr ""
+
+#: templates/frontend/social-share.php:14
+msgid "Come and Join To Earn Rewards Now!"
+msgstr ""
+
+#: templates/frontend/social-share.php:19
+msgid "Share On : "
+msgstr ""

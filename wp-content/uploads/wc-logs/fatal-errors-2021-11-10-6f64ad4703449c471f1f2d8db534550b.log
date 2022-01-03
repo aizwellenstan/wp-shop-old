@@ -1,0 +1,768 @@
+2021-11-10T09:46:52+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:46:53+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:09+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:10+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:10+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:10+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:11+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:12+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:37+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:38+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:38+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:39+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:44+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:45+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:46+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:47:47+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:48:27+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:49:47+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:49:48+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:50:00+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:50:01+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:50:14+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:50:15+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:50:48+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:51:06+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:51:08+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:51:12+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:51:20+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:51:25+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:51:51+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:51:52+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:51:55+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:51:59+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:52:09+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:52:15+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:52:24+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:52:28+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:53:06+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:53:07+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:53:10+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:53:13+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:53:24+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:54:16+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:55:37+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:55:53+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:57:18+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:57:22+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:57:41+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T09:58:27+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:00:10+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:00:11+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:00:22+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:00:23+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:00:35+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:00:35+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:00:43+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:01:05+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:01:13+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:01:16+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:01:21+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:01:25+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:01:28+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:01:29+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:17:23+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:17:24+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T10:19:10+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T11:02:04+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T11:35:17+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T11:35:59+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T11:53:31+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T12:19:23+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T12:21:40+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T12:27:54+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T12:55:50+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T13:37:13+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T13:44:28+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T13:45:41+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T13:55:11+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T13:55:20+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T13:55:22+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T13:55:22+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T13:55:27+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T14:26:11+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T14:46:13+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T14:48:05+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T14:54:09+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T15:45:51+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T15:48:22+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T15:56:08+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T16:22:20+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T16:22:44+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T16:23:46+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T16:57:35+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T17:09:21+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T17:41:23+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+
+2021-11-10T17:41:24+00:00 CRITICAL Uncaught InvalidArgumentException: Argument $language_code must be a non empty string. in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-image-translate.php(40): WPML_Translation_Element->get_translation()
+#1 /var/www/html/wp-content/plugins/wpml-media-translation/classes/media-translation/class-wpml-media-translated-images-update.php(59): WPML_Media_Image_Translate->get_translated_image()
+#2 /var/www/html/wp-content/plugins/wpml-media-translation/classes/Widgets/Block/DisplayTranslation.php(23): WPML_Media_Translated_Images_Update->replace_images_with_translations()
+#3 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/core/functions.php(15): WPML\Media\Widgets\Block\DisplayTranslation->WPML\Media\Widgets\Block\{closure}()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/fp/c in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/classes/translations/class-wpml-translation-element.php on line 77
+

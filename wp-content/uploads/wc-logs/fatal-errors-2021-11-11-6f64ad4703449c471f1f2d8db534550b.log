@@ -1,0 +1,10 @@
+2021-11-11T06:45:12+00:00 CRITICAL Uncaught Error: Call to a member function get_original_document() on bool in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/tm/classes/ATE/Hooks/class-wpml-tm-ate-jobs-actions.php:526
+Stack trace:
+#0 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/tm/classes/ATE/Hooks/class-wpml-tm-ate-jobs-actions.php(159): WPML_TM_ATE_Jobs_Actions->getJobType()
+#1 /var/www/html/wp-includes/class-wp-hook.php(303): WPML_TM_ATE_Jobs_Actions->added_translation_jobs()
+#2 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#3 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action()
+#4 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/inc/translation-management/translation-management.class.php(1418): do_action()
+#5 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/tm/classes/class-wpml-translation-job-factory.php(109): TranslationManagement->send_jobs()
+#6 /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor in /var/www/html/wp-content/plugins/sitepress-multilingual-cms/vendor/wpml/tm/classes/ATE/Hooks/class-wpml-tm-ate-jobs-actions.php on line 526
+

@@ -1,0 +1,10 @@
+2021-11-20T13:49:15+00:00 CRITICAL Uncaught Error: Call to undefined function ElementorPro\Modules\Woocommerce\Widgets\wc_print_notices() in /var/www/html/wp-content/plugins/elementor-pro/modules/woocommerce/widgets/products.php:197
+Stack trace:
+#0 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): ElementorPro\Modules\Woocommerce\Widgets\Products->render()
+#1 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Element_Base->print_content()
+#6 /var/www/html/wp-content/plugins/elementor/includ 於 /var/www/html/wp-content/plugins/elementor-pro/modules/woocommerce/widgets/products.php 在 197 線上
+

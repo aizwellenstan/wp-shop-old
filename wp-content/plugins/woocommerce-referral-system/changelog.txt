@@ -1,0 +1,153 @@
+*** WooCommerce Referral System Changelog ***
+
+2021-10-22 - version 1.3.9.9
+* Fixed signup points for referrer.
+
+2021-09-20 - version 1.3.9.8
+* Fixed warnings.
+
+2021-09-08 - version 1.3.9.7
+* Fixed Coupon Generation issue on when new user signup.
+* Build Compatibility with WooCommerce 5.6.0.
+
+2021-08-03 - version 1.3.9.6
+* Coupon Expiry Required now in settings.
+
+2021-07-29 - version 1.3.9.5
+* Build Compatibility with WooCommerce 5.5.2.
+
+2021-07-16 - version 1.3.9.4
+* Build Compatibility with WooCommerce 5.5.1.
+
+2021-06-28 - version 1.3.9.3
+* Referral redirect link issue solved.
+
+2021-06-16 - version 1.3.9.2
+* Change signup reward hook from woocommerce_created_customer to user_register.
+
+2021-06-14 - version 1.3.9.1
+* Coupons not showing in referrer account issue fixed.
+* Sign up based coupons creating on disabling from a user account isue fixed.
+
+2021-06-10 - version 1.3.9.0
+* Fixed issues related to admin logs.
+* Add a new feature that allows admin to disable rewards on a user level.
+* Modify the method of setting and getting our plugin cookie.
+
+2021-06-07 - version 1.3.8.4
+* fixed issue with associating users with coupons.
+
+2021-05-27 - version 1.3.8.3
+* Wrong id/password the validation is not showing issue fixed.
+* Introduce new action wrs_coupon_args_after_updating_meta.
+
+2021-05-12 - version 1.3.8.2
+* Bug fix for redirect.
+
+2021-04-21 - version 1.3.8.1
+* Improvement in email text.
+* Responsive issue fixed for social share.
+
+2021-04-07 - version 1.3.8.0
+* Code Re-factoring.
+
+2021-03-22 - version 1.3.7.6
+* Fixed issues on order limit.
+
+2021-03-19 - version 1.3.7.5
+* Fixed issues on order limit for referrer and warnings on thank you page . 
+
+2021-03-17 - version 1.3.7.4
+* Change reward action from success to thank you page.
+
+2021-03-16 - version 1.3.7.3
+* New feature to select eligible order statuses for reward, Fixed issues in order-based reward with percentage reward type.
+
+2021-03-08 - version 1.3.7.2
+* My account page set as homepage issues resolved.
+
+2021-02-26 - version 1.3.7.1
+* Bug Fixing for email issues and new installation.
+
+2021-02-24 - version 1.3.7.0
+* Template Overriding Compatibility
+
+2021-02-15 - version 1.3.6.3
+* Multi Site Compatibility.
+
+2021-02-09 - version 1.3.6.2
+* Bug Fixing.
+
+2021-02-08 - version 1.3.6.1
+* Bug Fixing.
+
+2021-02-02 - version 1.3.6.0
+* API development
+
+2020-01-04 - version 1.3.5.0
+* Hooks work added.
+
+2020-12-23 - version 1.3.4.19
+* Improvments.
+
+2020-12-23 - version 1.3.4.18
+* Bug Fixing after refactor in code.
+
+2020-12-18 - version 1.3.4.17
+* Improvment in code structure.
+
+2020-12-09 - version 1.3.4.16
+* Bug Fixing.
+
+2020-11-18 - version 1.3.4.15
+* Fix Issue for unlimited rewards after each refresh on thank you page.
+
+2020-10-21 - version 1.3.4.14
+* Code sniffer.
+
+2020-10-21 - version 1.3.4.13
+* Fixed text issue on setting page
+* make new transaltion file
+
+2020-10-19 - version 1.3.4.12
+* Code sniffer.
+
+2020-10-14 - version 1.3.4.11
+* My coupons page fixed for no record.
+* dont show social share if not logged in
+
+2020-10-02 - version 1.3.4.10
+* improvment in sharing description.
+
+2020-09-30 - version 1.3.4.9
+* text/label improvements.
+* permalink issues fixed
+* improvment in fb sharing
+
+2020-09-11 - version 1.3.4.8
+* sniffer.
+
+
+2020-09-10 - version 1.3.4.7
+* text/label improvements.
+
+2020-09-08 - version 1.3.4.6
+* bug fixing and text/label improvements.
+
+2020-09-08 - version 1.3.4.5
+* bug fixing and text/label improvements.
+
+2020-09-04 - version 1.3.4.4
+* bug fixing and text/label improvements.
+
+2020-08-28 - version 1.3.4.3
+* logout issues fixed
+* Bug fixing 
+* Improvements in settings
+* fix translation support
+
+2020-08-25 - version 1.3.4.2
+
+- bug fixing
+- improvements in settings
+- improvements in coupon emails

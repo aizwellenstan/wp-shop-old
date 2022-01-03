@@ -1,0 +1,34 @@
+.social_image
+{
+	height: 40px!important;
+
+
+}
+.cwrs_share{
+	margin-top: 10px;
+	display: flex;
+	gap:20px;
+}
+
+.whatsapp_class{
+	display: none;
+}
+
+.wcrs_thankyou_wrapper p {text-align: center;}
+.wcrs_thankyou_wrapper span #referralLink {
+	width: 50%!important;
+}
+
+@media only screen and (max-width: 600px) {
+
+	.cwrs_share{
+	 margin-top: 25px;
+	}
+
+  .cwrs_share {
+		gap:20px;
+		display: flex;
+		font-size: 10px;
+		height: 45px;
+	}
+}
